@@ -1,6 +1,6 @@
 # Mikel Zabal Martín
 
- <img width="1397" height="350" alt="while" src="https://github.com/user-attachments/assets/c7dc6bc3-74b1-4742-bce3-0408e27eba64" />
+<img width="1983" height="793" alt="while" src="https://github.com/user-attachments/assets/8f137106-1a37-4115-94d9-5852caaa1a03" />
 
 
 Software doesn’t run on frameworks.  

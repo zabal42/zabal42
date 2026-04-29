@@ -11,7 +11,7 @@ On signals.
 
 ---
 
-C / C++ · Linux
+C / C++ · Linux · Systems Programming
 
 fork() · execve() · pipes · signals · threads · mutex · timing
 

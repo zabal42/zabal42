@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mikel Zabal Martín
 
-<!--
-**zabal42/zabal42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img width="1397" height="350" alt="while" src="https://github.com/user-attachments/assets/c7dc6bc3-74b1-4742-bce3-0408e27eba64" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software doesn’t run on frameworks.  
+It runs on processes. On memory. On signals.
+
+---
+
+C / C++ · Linux
+
+fork() · execve() · pipes · signals 
+threads · mutex · timing
+
+---
+
+Most people write code.
+
+I follow what happens after it runs.
